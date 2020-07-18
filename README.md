@@ -1,4 +1,4 @@
-# Example CaseStudies
+# Example Case Studies
 
 The project provides an a few examples of case studies
 
