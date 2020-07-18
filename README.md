@@ -8,7 +8,7 @@ Please download the executable in https://github.com/alpaddesai/ExampleCaseStudi
 
 Images are custom.
 
-## Computing Manufacturing 
+# Computing Manufacturing 
 ![image](ComputingManufacturing.png)
 
 ## Contents
