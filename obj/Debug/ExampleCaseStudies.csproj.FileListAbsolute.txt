@@ -1,0 +1,14 @@
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\bin\Debug\ExampleCaseStudies.exe.config
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\bin\Debug\ExampleCaseStudies.exe
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\bin\Debug\ExampleCaseStudies.pdb
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\obj\Debug\ExampleCaseStudies.Properties.Resources.resources
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\obj\Debug\ExampleCaseStudies.csproj.GenerateResource.cache
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\obj\Debug\ExampleCaseStudies.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\obj\Debug\ExampleCaseStudies.exe
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\obj\Debug\ExampleCaseStudies.pdb
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\obj\Debug\ExampleCaseStudies.csproj.ResolveComReference.cache
+C:\Users\alpag\source\repos\ExampleCaseStudies\ExampleCaseStudies\obj\Debug\ExampleCaseStudies.Form1.resources
