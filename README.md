@@ -75,4 +75,18 @@ Images are custom.
 ## Charts 
 ![image](Charts.png)
 
+# Customer Profitability at MGM
+![image](CustomerProfitabilityMGM.png)
+
+## Contents
+![image](ManagingCustomerProfitabilityTcontents.png)
+
+## Executive Summary
+![image](ExecutiveSummary.png)
+
+## SCEQ Analysis
+![image](SCEQAnalysis.png)
+
+## SCEQ Analysis II
+![image](SCEQAnalysisII.png)
 
