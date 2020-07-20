@@ -20,7 +20,7 @@ Images are custom.
 ## Economies of scale
 ![image](EconomiesofScale.png)
 
-## Retaliation 
+## Strategic 
 ![image](Retaliation.png)
 
 ## ExcessCapacity
