@@ -21,7 +21,7 @@ Images are custom.
 ![image](EconomiesofScale.png)
 
 ## Strategic 
-![image](Retaliation.png)
+![image](Strategies.png)
 
 ## ExcessCapacity
 ![image](ExcessCapacity.png)
