@@ -90,3 +90,4 @@ Images are custom.
 ## SCEQ Analysis II
 ![image](SCEQAnalysisII.png)
 
+Additional knowledge reference : https://github.com/alpaddesai/ManagementConsulting
