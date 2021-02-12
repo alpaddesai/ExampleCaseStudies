@@ -63,8 +63,6 @@ Images are custom.
 ## Index
 ![image](TContents.png)
 
-## Executive Summary 
-![image](ExecutiveSummary.png)
 
 ## Progressive Innovation 
 ![image](ProgressiveInnovation.png)
